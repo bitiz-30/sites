@@ -1,23 +1,17 @@
  
     .teste :hover {
         border-color: aquamarine; 
-        border: 10px solid rgb(0, 0, 0);
+
     }
     .tam{
         height: auto;
         width: 23%;
-        
     }
-
-    h1{
-        text-align: center;
-        font-size: 60px;
-    }
+    .h1s
 
     hr{
         height: 2px;
         background-color: white;
-
     }
     body{
         background-color: rgb(179, 142, 100);
@@ -25,10 +19,12 @@
    .teste{
         justify-content: space-around;
         display: inline;
-        
     }
     
     .logo{
         width: 100%;
         height: auto;
+    }
+    .texto{
+        font: italic;
     }
