@@ -6,11 +6,14 @@
     .tam{
         height: auto;
         width: 20%;
-        margin: 15px;
+        margin: 20px;
     }
     h1{
         color: white;
         text-align: center;
+    }
+    h2{
+        color: #FFF;
     }
 
     hr{
@@ -52,7 +55,15 @@
         text-transform: none;
         }
     .alguma{
-        text-align: right;
+        text-align: left;
         height: 500px;
         width: 240px;
     }
+    .oxo{
+        display: flex;
+    }
+    .fontess{
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+
+      
